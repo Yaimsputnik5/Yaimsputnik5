@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Apex%20Technology%20Management&style=for-the-badge&url=https://apex.com)](https://apex.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/apextechmgmt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGitHub&screen_name=apextechmgmt)
+[![Website](https://img.shields.io/website?label=NerdsInc Website&style=for-the-badge&url=https://nerdsin.space/)](https://nerdsin.space/)
 
 ## I'm a Full-Stack Developer, Here's A Little More About Me!
 
@@ -15,13 +16,6 @@
 - [Investor][blockchain]
 - [Verified Block Game Enjoyer][bgm]
 
-<!--
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
--->
 <br />
 
 ### Languages and Tools:
@@ -56,5 +50,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [work]: https://www.apex.com/
+[partner]: https://nerdsin.space/
 [bgm]: https://2b2t.miraheze.org/wiki/Block_Game_Mecca
 [blockchain]: https://www.blockchain.com/
