@@ -3,10 +3,6 @@
 [![Website](https://img.shields.io/website?label=Apex%20Technology%20Management&style=for-the-badge&url=https://apex.com)](https://apex.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/apextechmgmt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGitHub&screen_name=apextechmgmt)
 
-# Mr.Gibson#6629 | UserID: 882990442801664061
-
-# LARPs as me for fun, what a loser.
-
 ## I'm a Full-Stack Developer, Here's A Little More About Me!
 
 - Ex-Greyhat
