@@ -13,6 +13,7 @@
 - Reverse Engineer
 - Penetration Tester
 - [Investor][blockchain]
+- [Verified Block Game Enjoyer][bgm]
 
 <br />
 
@@ -48,4 +49,5 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [work]: https://www.apex.com/
+[bgm]: https://2b2t.miraheze.org/wiki/Block_Game_Mecca
 [blockchain]: https://www.blockchain.com/
